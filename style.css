@@ -5,10 +5,10 @@
 }
 
 :root {
-  --primary-color: dodgerblue;
-  --select-color: dodgerblue;
-  --success: rgb(15, 158, 2);
-  --danger: rgb(214, 23, 23);
+  --primary-color: #4D96FF;
+  --select-color: #4D96FF;
+  --success: #6BCB77;
+  --danger: #FF6B6B;
 }
 
 body {
